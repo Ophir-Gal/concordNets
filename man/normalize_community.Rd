@@ -23,7 +23,6 @@ by the sqrt of the product of the associated diagonal entries,
 (giving it a value in [0,1]).
 }
 \examples{
-
 normalized_community(mats)
 }
 \keyword{list,}

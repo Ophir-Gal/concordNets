@@ -16,7 +16,6 @@ the corresponding NxN concordance matrix.
 This function receives a vector and returns the corresponding NxN concordance matrix.
 }
 \examples{
-
 vec <- sample(c(1,0), 4, replace=TRUE)
 vec2concord(vec)
 }

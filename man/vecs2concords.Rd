@@ -16,7 +16,6 @@ the corresponding list of NxN concordance matrices.
 This function receives an NXN matrix and returns the corresponding list of NxN concordance matrices.
 }
 \examples{
-
 mat <- matrix(sample(c(1,0), 16, replace=TRUE), 3, 3)
 vecs2concords(mat)
 }

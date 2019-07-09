@@ -21,7 +21,6 @@ This function receives a list of igrpah network objects, and optionally a title 
 and returns a visNetwork representing the given networks (using the visNetwork package)
 }
 \examples{
-
 data = rbinom(300*20, 1, .2)
 data = matrix(data,300,20)
 res <- cluster_concordance(mat)
